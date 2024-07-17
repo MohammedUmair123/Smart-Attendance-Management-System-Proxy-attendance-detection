@@ -8,6 +8,5 @@ Real-Time Processing ⏱️: Provides immediate feedback and attendance records,
 How It Works ⚙️
 Image Capture 📷: A camera installed in the classroom captures an image of the students.
 Preprocessing 🛠️: The captured image is preprocessed to enhance quality and remove noise.
-Head Detection 🧑‍🎓: An object detection algorithm, such as YOLO, is used to detect and count the number of heads in the image.
 Attendance Verification ✅: The detected head count is compared with the registered number of students to verify attendance and detect any discrepancies.
 Data Logging 📊: The attendance data is logged into the system, providing a digital record for future reference.
