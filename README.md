@@ -10,3 +10,4 @@ Image Capture 📷: A camera installed in the classroom captures an image of the
 Preprocessing 🛠️: The captured image is preprocessed to enhance quality and remove noise.
 Attendance Verification ✅: The detected head count is compared with the registered number of students to verify attendance and detect any discrepancies.
 Data Logging 📊: The attendance data is logged into the system, providing a digital record for future reference.
+Useage : Decreasing the Manual effort by 50%
